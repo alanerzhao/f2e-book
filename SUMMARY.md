@@ -8,4 +8,5 @@
 * [前端解决方案](qian-duan-jie-jue-fang-an.md)
 * [开发入门指南](kai-fa-ru-men-zhi-nan.md)
 * [专业术语](zhuan-ye-zhu-yu.md)
+* [Nginx配置](nginxpei-zhi.md)
 
