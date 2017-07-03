@@ -4,8 +4,6 @@
 
 资源：
 
-
-
 ```bash
     #Compression Settings
     gzip             on;
@@ -16,5 +14,7 @@
     #end gzip
 ```
 
+对于同一个web app项目开启前的请求资源对比![](/assets/import.png)Gzip后
 
+![](/assets/import2.png)
 
