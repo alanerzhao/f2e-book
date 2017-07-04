@@ -1,7 +1,18 @@
+---
+styles:
+  website: styles/website.css
+  ebook: styles/ebook.css
+  pdf: styles/pdf.css
+  mobi: styles/mobi.css
+  epub: styles/epub.css
+---
+
 # Nginx配置优化
 
 > 服务器对前端的性能也会起到一些至关重要的作用，比如开启gzip压缩，开启静态资源缓存等。  
 > 开启 gzip 和缓存能大大减少带宽的消耗
+>
+> Gzip 压缩通常可以减少 70% 的响应大小，对某些文件更可能高达 90%，比 Deflate 更高效。主流 Web 服务器都有相应模块，而且绝大多数浏览器支持 gzip 解码。所以，应该对 HTML、CSS、JS、XML、JSON 等文本类型的内容启用压缩
 
 ### 配置示例：
 
