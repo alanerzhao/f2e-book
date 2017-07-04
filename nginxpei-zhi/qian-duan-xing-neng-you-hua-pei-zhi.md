@@ -30,8 +30,6 @@
 
 [http://www.jianshu.com/p/625c2b15dad5](http://www.jianshu.com/p/625c2b15dad5)
 
-
-
 ```
 # Note that these are defined outside of the server block,
 # altho they don't necessarily need to be
@@ -60,5 +58,7 @@ server {
 }
 ```
 
+我们利用http命令行工具进行测试
 
+![](/assets/http-test-cache.png)
 
