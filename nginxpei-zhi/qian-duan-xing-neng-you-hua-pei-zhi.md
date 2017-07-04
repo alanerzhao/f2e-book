@@ -30,6 +30,8 @@
 
 [http://www.jianshu.com/p/625c2b15dad5](http://www.jianshu.com/p/625c2b15dad5)
 
+
+
 ```
 # Note that these are defined outside of the server block,
 # altho they don't necessarily need to be
@@ -50,7 +52,7 @@ server {
 
     location / {
         proxy_cache my_zone;
-        add_header X-Proxy-Cache $upstream_cache_status;
+        add_header X-Proxy-Cache $upstream_cache_status; //值为HIT，MISS 或 BYPASS 状态码
 
         # include proxy_params;
         proxy_pass http://127.0.0.1:9000; //源服务器
