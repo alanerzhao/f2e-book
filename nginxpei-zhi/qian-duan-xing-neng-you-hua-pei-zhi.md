@@ -24,7 +24,11 @@
 
 # 缓存服务器
 
-就像cdn一样，第一次请求源服务器，后面则请求了缓存服务器
+![](/assets/cache.png)
+
+就像cdn一样，第一次请求源服务器，后面则请求了缓存服务器，CDN原理估然如此，就近原则返回给用户数据
+
+[http://www.jianshu.com/p/625c2b15dad5](http://www.jianshu.com/p/625c2b15dad5)
 
 ```
 # Note that these are defined outside of the server block,
@@ -52,7 +56,6 @@ server {
         proxy_pass http://127.0.0.1:9000; //源服务器
     }
 }
-
 ```
 
 
