@@ -15,5 +15,15 @@ sudo nginx -v #查看nginx版本号
 * goaccess
 * curl 测试请求
 
+Mac 停止自带 Apache
+
+```
+sudo apachectl -k 
+```
+
+
+
+
+
 
 
