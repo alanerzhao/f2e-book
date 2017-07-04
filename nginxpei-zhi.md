@@ -1,4 +1,8 @@
 # Nginx对前端的影响
 
+资源：
+
+[http://www.jianshu.com/p/5d1ff7f545b2](http://www.jianshu.com/p/5d1ff7f545b2)
+
 
 
