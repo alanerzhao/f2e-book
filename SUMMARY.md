@@ -9,4 +9,7 @@
 * [开发入门指南](kai-fa-ru-men-zhi-nan.md)
 * [专业术语](zhuan-ye-zhu-yu.md)
 * [Nginx配置](nginxpei-zhi.md)
+  * [本地虚拟主机配置](nginxpei-zhi/1232.md)
+  * [基础命令](nginxpei-zhi/ji-chu-ming-ling.md)
+  * [前端性能优化配置](nginxpei-zhi/qian-duan-xing-neng-you-hua-pei-zhi.md)
 
