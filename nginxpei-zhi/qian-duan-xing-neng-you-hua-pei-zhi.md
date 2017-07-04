@@ -28,6 +28,8 @@
 
 就像cdn一样，第一次请求源服务器，后面则请求了缓存服务器，CDN原理估然如此，就近原则返回给用户数据
 
+[https://www.mnot.net/cache\_docs/\#BROWSER](https://www.mnot.net/cache_docs/#BROWSER)
+
 [http://www.jianshu.com/p/625c2b15dad5](http://www.jianshu.com/p/625c2b15dad5)
 
 ```
