@@ -22,3 +22,38 @@
 
 对于同一个web app项目开启前的请求资源对比![](/assets/import.png)Gzip后![](/assets/import2.png)
 
+# 缓存服务器
+
+就像cdn一样，第一次请求源服务器，后面则请求了缓存服务器
+
+```
+# Note that these are defined outside of the server block,
+# altho they don't necessarily need to be
+proxy_cache_path /tmp/nginx levels=1:2 keys_zone=my_zone:10m inactive=60m;
+proxy_cache_key "$scheme$request_method$host$request_uri";
+
+server {
+    # Note that it's listening on port 80
+    listen 80 default_server;
+
+    index index.html index.htm;
+    root /Users/baozi/learn/doc/slate/build;
+    #root /Users/baozi/learn/yueqi/dist;
+
+    server_name localhost;
+
+    charset utf-8;
+
+    location / {
+        proxy_cache my_zone;
+        add_header X-Proxy-Cache $upstream_cache_status;
+
+        # include proxy_params;
+        proxy_pass http://127.0.0.1:9000; //源服务器
+    }
+}
+
+```
+
+
+
