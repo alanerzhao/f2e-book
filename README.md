@@ -5,13 +5,18 @@
 * [https://alanerzhao.gitbooks.io/f2e-best-practice/](https://alanerzhao.gitbooks.io/f2e-best-practice/)
 * [https://toolchain.gitbook.com/setup.html](https://toolchain.gitbook.com/setup.html)
 
-### gitbook styleguide 
+### gitbook styleguide
 
 [http://styleguide.gitbook.com/](http://styleguide.gitbook.com/)
 
 ### gitbook 安装主题插件
 
+```
 新建book.json，然后写入需要安装的插件，然后 gitbook install
+gitbook build --log debug
+gitbook build --format json //格式化成json TODO可以把数据做别的用
+
+```
 
 
 
