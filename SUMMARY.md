@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [前端工程化](qian-duan-gong-cheng-hua.md)
   * [自动化部署](qian-duan-gong-cheng-hua/zi-dong-hua-bu-shu.md)
+  * [命令行](qian-duan-gong-cheng-hua/ming-ling-xing.md)
 * [前端性能优化](qian-duan-xing-neng-you-hua.md)
 * [前端读书笔记](qian-duan-du-shu-bi-ji.md)
 * [前端资源](qian-duan-zi-yuan.md)
