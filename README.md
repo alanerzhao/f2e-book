@@ -15,8 +15,9 @@
 新建book.json，然后写入需要安装的插件，然后 gitbook install
 gitbook build --log debug
 gitbook build --format json //格式化成json TODO可以把数据做别的用
-
 ```
 
+参考
 
+[http://www.chengweiyang.cn/gitbook/github-pages/README.html](http://www.chengweiyang.cn/gitbook/github-pages/README.html)
 
