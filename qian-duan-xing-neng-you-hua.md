@@ -4,6 +4,7 @@
 * localStrong缓存
 * 浏览器缓存
 * 服务器强制缓存，协商缓存
+* server work
 
 资源：
 
