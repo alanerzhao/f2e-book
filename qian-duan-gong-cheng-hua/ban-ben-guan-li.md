@@ -10,7 +10,19 @@ npm i -g ntl
 
 [http://www.zcfy.cc/article/8-npm-tricks-you-can-use-to-impress-your-colleagues-3362.html?t=new](http://www.zcfy.cc/article/8-npm-tricks-you-can-use-to-impress-your-colleagues-3362.html?t=new)
 
-np 更好的npm publish 
+np 更好的npm publish
 
 [https://github.com/sindresorhus/np](https://github.com/sindresorhus/np)
+
+自动更新包
+
+[https://github.com/semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+
+
+
+```
+yarn global add  eslint 全局安装
+```
+
+
 
