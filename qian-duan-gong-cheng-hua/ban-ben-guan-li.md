@@ -16,9 +16,7 @@ np 更好的npm publish
 
 自动更新包
 
-[https://github.com/semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-
-
+[https://github.com/semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 版本管理
 
 ```
 yarn global add  eslint 全局安装
