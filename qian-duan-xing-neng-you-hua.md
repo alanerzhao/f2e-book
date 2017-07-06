@@ -8,7 +8,9 @@
 
 资源：
 
-[https://github.com/addyosmani/basket.js](https://github.com/addyosmani/basket.js)
+* [https://github.com/addyosmani/basket.js](https://github.com/addyosmani/basket.js)
+* [https://csspod.com/frontend-performance-best-practices/\#server-cache](https://csspod.com/frontend-performance-best-practices/#server-cache)
+* [https://www.mnot.net/cache\_docs/\#BROWSER](https://www.mnot.net/cache_docs/#BROWSER)
 
-[https://csspod.com/frontend-performance-best-practices/\#server-cache](https://csspod.com/frontend-performance-best-practices/#server-cache)
+
 
