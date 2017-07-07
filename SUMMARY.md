@@ -20,4 +20,5 @@
   * [前端性能优化配置](nginxpei-zhi/qian-duan-xing-neng-you-hua-pei-zhi.md)
 * [前端框架](qian-duan-kuang-jia.md)
   * [Vue](qian-duan-kuang-jia/vue.md)
+* [打包vue component](da-bao-vue-component.md)
 
