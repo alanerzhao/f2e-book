@@ -7,6 +7,7 @@
 * [http://www.mkdocs.org/](http://www.mkdocs.org/)
 
 * [https://github.com/lord/slate](https://github.com/lord/slate)
+
 * [https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)
 * [https://github.com/segmentio/metalsmith](https://github.com/segmentio/metalsmith)
 * [https://phenomic.io/](https://phenomic.io/)
@@ -17,6 +18,10 @@
 * [https://swagger.io/](https://swagger.io/)
 * [https://github.com/Thibaut/devdocs](https://github.com/Thibaut/devdocs)
 * [https://github.com/swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)
+* [https://daux.io/index](https://daux.io/index)
+* [https://www.sitepoint.com/project-documentation-hexo/](https://www.sitepoint.com/project-documentation-hexo/)
+* [https://github.com/nyergler/hieroglyph](https://github.com/nyergler/hieroglyph)
+* [http://jsdox.org/\#api](http://jsdox.org/#api)
 
 
 
