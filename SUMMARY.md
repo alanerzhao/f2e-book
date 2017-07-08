@@ -9,7 +9,7 @@
     * [原理](qian-duan-gong-cheng-hua/webpack/yuan-li.md)
   * [脚手架](qian-duan-gong-cheng-hua/jiao-shou-jia.md)
   * [版本管理](qian-duan-gong-cheng-hua/ban-ben-guan-li.md)
-  * 静态网站生成器
+  * [静态网站生成器](qian-duan-gong-cheng-hua/jing-tai-wang-zhan-sheng-cheng-qi.md)
 * [前端性能优化](qian-duan-xing-neng-you-hua.md)
 * [前端读书笔记](qian-duan-du-shu-bi-ji.md)
 * [前端资源](qian-duan-zi-yuan.md)
