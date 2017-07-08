@@ -8,6 +8,12 @@ Google前端指南：[https://developers.google.com/web/fundamentals/instant-and
 
 [https://coderwall.com/](https://coderwall.com/)
 
+[https://waffle.io/](https://waffle.io/)
+
+## 文档生成工具
+
+[http://www.mkdocs.org/\#installation](http://www.mkdocs.org/#installation)
+
 ## awesome
 
 * [https://github.com/sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)

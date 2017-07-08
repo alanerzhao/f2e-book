@@ -6,8 +6,10 @@
   * [命令行](qian-duan-gong-cheng-hua/ming-ling-xing.md)
   * [标准化提交Commit](qian-duan-gong-cheng-hua/biao-zhun-hua-ti-jiao-commit.md)
   * [webpack](qian-duan-gong-cheng-hua/webpack.md)
+    * [原理](qian-duan-gong-cheng-hua/webpack/yuan-li.md)
   * [脚手架](qian-duan-gong-cheng-hua/jiao-shou-jia.md)
   * [版本管理](qian-duan-gong-cheng-hua/ban-ben-guan-li.md)
+  * 静态网站生成器
 * [前端性能优化](qian-duan-xing-neng-you-hua.md)
 * [前端读书笔记](qian-duan-du-shu-bi-ji.md)
 * [前端资源](qian-duan-zi-yuan.md)
@@ -21,4 +23,11 @@
 * [前端框架](qian-duan-kuang-jia.md)
   * [Vue](qian-duan-kuang-jia/vue.md)
 * [打包vue component](da-bao-vue-component.md)
+* [CSS](css.md)
+  * [css workflow](css/css-workflow.md)
+* [shell](shell.md)
+* [linux](linux.md)
+* [IDEA](idea.md)
+* [云管理](yun-guan-li.md)
+  * [CDN](yun-guan-li/cdn.md)
 
