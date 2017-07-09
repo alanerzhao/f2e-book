@@ -2,13 +2,13 @@
 
 ```
 webpack install postcss
-
 ```
 
 POST包括语法和插件
 
 * [http://browserl.ist/](http://browserl.ist/)
 * [https://autoprefixer.github.io/](https://autoprefixer.github.io/)
+* [http://cssnext.io/setup/](http://cssnext.io/setup/)
 
 我们可以通过上面的浏览器输入对应的规则来看postcss编译过后的样式是否支持某些浏览器
 
@@ -22,9 +22,17 @@ POST包括语法和插件
 npm install postcss-sass --save-dev
 npm install postcss-loader --save-dev
 npm install precss --save-dev
+#为了先方便测试可以先安装下人cli来测试用
+npm install -g postcss-cli
+postcss src/*.scss
+postcss -c postcss.config.js src/test.css -o compile.css
+配置css-next http://cssnext.io/setup/
+npm install postcss-cssnext
+
+npm uninstall --save-dev postcss-cssnext 卸载开发依赖中的包
+npm uninstall --save postcss-cssnext 卸载依赖中的包
+cssnext包含了Autoprefixer插件
 ```
-
-
 
 前处理器和后代处理器的区别
 
@@ -46,7 +54,16 @@ Opera 12.1: Opera 12.1版本
 
 原文: [http://www.w3cplus.com/PostCSS/using-postcss-for-cross-browser-compatibility.html](http://www.w3cplus.com/PostCSS/using-postcss-for-cross-browser-compatibility.html) © w3cplus.com
 
-
-
 720yun h5doo
+
+
+
+
+
+简单来说，预处理器（ pre-processor ）是你把一些长得很像 CSS 但不是 CSS 的东西丢给它，处理过后会给你编译过后的CSS，
+
+  
+
+
+而 CSS 再经过后处理器 （ post-processor ），透过一些规则帮它加上一些东西，最后产出完整的CSS文件！
 
