@@ -4,11 +4,14 @@
 * API生成器，对于代码层面的文档
 * 项目文档（Project documentation ）
 * vue是用hexo做的自定义主题文档
-* http://www.docbuilds.com/
+* [http://www.docbuilds.com/](http://www.docbuilds.com/)
 
 ### 参考项目
 
 * [http://www.mkdocs.org/](http://www.mkdocs.org/)
+* [https://github.com/esdoc/esdoc](https://github.com/esdoc/esdoc)
+* [https://github.com/documentationjs](https://github.com/documentationjs)
+* [https://github.com/egoist/docute](https://github.com/egoist/docute)
 * [https://github.com/lord/slate](https://github.com/lord/slate)
 * [https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)
 * [https://github.com/segmentio/metalsmith](https://github.com/segmentio/metalsmith)
