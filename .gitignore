@@ -6,6 +6,7 @@ logs
 pids
 *.pid
 *.seed
+# 自已的文件
 private
 todo
 
