@@ -20,5 +20,27 @@ Google前端指南：[https://developers.google.com/web/fundamentals/instant-and
 * [https://github.com/sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm)
 * [https://github.com/stevemao/awesome-git-addons\#git-extras](https://github.com/stevemao/awesome-git-addons#git-extras)
 
+github使用技巧
 
+topic:主题
+
+topic:how-to
+
+awesome git
+
+
+
+[https://github.com/gztchan/awesome-design](https://github.com/gztchan/awesome-design)
+
+topic:ux
+
+topic:javascript-library 
+
+[best-practices](#)
+
+topic:javascript 大量主题
+
+[http://usablica.github.io/front-end-frameworks/compare.html](http://usablica.github.io/front-end-frameworks/compare.html)
+
+[https://github.com/search?p=3&q=topic%3Ajavascript&type=Repositories&utf8=✓](https://github.com/search?p=3&q=topic%3Ajavascript&type=Repositories&utf8=✓)
 

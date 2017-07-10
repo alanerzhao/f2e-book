@@ -2,6 +2,8 @@
 
 [http://keepachangelog.com/zh-CN/1.0.0/](http://keepachangelog.com/zh-CN/1.0.0/)
 
+[https://chris.beams.io/posts/git-commit/\#seven-rules](https://chris.beams.io/posts/git-commit/#seven-rules)
+
 * 标准化commit日志
 * 标准化change-log日志
 * PR之前执行验证
