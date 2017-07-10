@@ -28,13 +28,11 @@ topic:how-to
 
 awesome git
 
-
-
 [https://github.com/gztchan/awesome-design](https://github.com/gztchan/awesome-design)
 
 topic:ux
 
-topic:javascript-library 
+topic:javascript-library
 
 [best-practices](#)
 
@@ -43,4 +41,6 @@ topic:javascript 大量主题
 [http://usablica.github.io/front-end-frameworks/compare.html](http://usablica.github.io/front-end-frameworks/compare.html)
 
 [https://github.com/search?p=3&q=topic%3Ajavascript&type=Repositories&utf8=✓](https://github.com/search?p=3&q=topic%3Ajavascript&type=Repositories&utf8=✓)
+
+[https://github.com/mikemaccana/outdated-browser-rework](https://github.com/mikemaccana/outdated-browser-rework)
 
