@@ -39,11 +39,9 @@ styles:
 
 就像cdn一样，第一次请求源服务器，后面则请求了缓存服务器，CDN原理估然如此，就近原则返回给用户数据
 
-[https://www.mnot.net/cache\_docs/\#BROWSER](https://www.mnot.net/cache_docs/#BROWSER)
-
-[http://www.jianshu.com/p/625c2b15dad5](http://www.jianshu.com/p/625c2b15dad5)
-
-[https://segmentfault.com/a/1190000006689795](https://segmentfault.com/a/1190000006689795)
+* [https://www.mnot.net/cache\_docs/\#BROWSER](https://www.mnot.net/cache_docs/#BROWSER)
+* [http://www.jianshu.com/p/625c2b15dad5](http://www.jianshu.com/p/625c2b15dad5)
+* [https://segmentfault.com/a/1190000006689795](https://segmentfault.com/a/1190000006689795)
 
 ```
 # Note that these are defined outside of the server block,
@@ -76,4 +74,8 @@ server {
 我们利用http命令行工具进行测试
 
 ![](/assets/http-test-cache.png)
+
+查看http cache的文件
+
+[chrome://cache/](chrome://cache/)
 
