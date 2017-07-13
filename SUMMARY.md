@@ -30,6 +30,7 @@
   * [组件化css](css/zu-jian-hua-css.md)
 * [shell](shell.md)
 * [linux](linux.md)
+  * [发布到远程服务器](linux/fa-bu-dao-yuan-cheng-fu-wu-qi.md)
 * [IDEA](idea.md)
 * [云管理](yun-guan-li.md)
   * [CDN](yun-guan-li/cdn.md)
