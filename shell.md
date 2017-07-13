@@ -16,6 +16,9 @@ example
 watch ./deploy.sh
 change ./deploy.sh update /deploy.sh
 
+监控其他文件变化
+nodemon --exec 'sh' deploy.sh
+
 nodemon 也可监控node脚本的变化
 nodemon lib/cli.js
 ```
