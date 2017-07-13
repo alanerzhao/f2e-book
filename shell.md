@@ -7,5 +7,16 @@
 * [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
 * [https://github.com/robbyrussell/oh-my-zsh/wiki](https://github.com/robbyrussell/oh-my-zsh/wiki)
 
+监控命令执行，reload shell
+
+```
+npm install -g watch
+watch command 
+example 
+watch ./deploy.sh
+change ./deploy.sh update /deploy.sh
+
+```
+
 
 
