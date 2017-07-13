@@ -15,5 +15,11 @@ scp -rp docs/* code-run.com:tmp
 
 3.通过git的方式
 
-https://serversforhackers.com/c/automating-deployment-from-github
+[https://serversforhackers.com/c/automating-deployment-from-github](https://serversforhackers.com/c/automating-deployment-from-github)
+
+https://www.digitalocean.com/community/tutorials/building-for-production-web-applications-deploying
+
+https://css-tricks.com/deployment/
+
+https://wikitech.wikimedia.org/wiki/How\_to\_deploy\_code
 
