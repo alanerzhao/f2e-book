@@ -2,11 +2,15 @@
 
 免密登陆
 
+
+
+node nginx 代理hook
+
 权限的修改
 
 ![](/assets/SSH.png)root默认是不可以不输入密码的。
 
-http://blog.csdn.net/jia0511/article/details/8237698
+[http://blog.csdn.net/jia0511/article/details/8237698](http://blog.csdn.net/jia0511/article/details/8237698)
 
 ```
 chmod 700 id.rsa
