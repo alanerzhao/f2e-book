@@ -2,11 +2,13 @@
 
 免密登陆
 
-
-
 node nginx 代理hook
 
+
+
 权限的修改
+
+http://www.cnblogs.com/yjmyzz/p/4481720.html
 
 ![](/assets/SSH.png)root默认是不可以不输入密码的。
 
