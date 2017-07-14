@@ -6,11 +6,12 @@
 
 ![](/assets/SSH.png)root默认是不可以不输入密码的。
 
+http://blog.csdn.net/jia0511/article/details/8237698
+
 ```
 chmod 700 id.rsa
 #安装ssh-copy-id
 ssh-copyid -i id.rs root@ip  -f
-
 ```
 
 1.能过rsync命令
