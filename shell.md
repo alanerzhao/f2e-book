@@ -25,11 +25,15 @@ nodemon 也可监控node脚本的变化
 nodemon lib/cli.js
 ```
 
-https://github.com/mattallty/Caporal.js
+[https://github.com/mattallty/Caporal.js](https://github.com/mattallty/Caporal.js)
 
-https://github.com/visionmedia/debug
+[https://github.com/visionmedia/debug](https://github.com/visionmedia/debug)
 
-https://github.com/FormidableLabs/nodejs-dashboard
+https://github.com/sindresorhus/generator-nm
 
-https://github.com/donnemartin/dev-setup
+[https://github.com/FormidableLabs/nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard)
+
+npm-check -g
+
+[https://github.com/donnemartin/dev-setup](https://github.com/donnemartin/dev-setup)
 
