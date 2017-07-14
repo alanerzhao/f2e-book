@@ -1,14 +1,10 @@
 # 将本地代码发布到远程服务器
 
-免密登陆
+1.免密登陆
 
-node nginx 代理hook
+node nginx 代理nodejs hook
 
-
-
-权限的修改
-
-http://www.cnblogs.com/yjmyzz/p/4481720.html
+权限的修改 [http://www.cnblogs.com/yjmyzz/p/4481720.html](http://www.cnblogs.com/yjmyzz/p/4481720.html)
 
 ![](/assets/SSH.png)root默认是不可以不输入密码的。
 
@@ -53,17 +49,16 @@ scp -rp docs/* code-run.com:tmp
 
 [https://github.com/beautifulcode/ssh-copy-id-for-OSX](https://github.com/beautifulcode/ssh-copy-id-for-OSX)
 
+### PM2的方式部署项目
+
+```
 pm2 deploy setting.config production —force 会执行post-deploy
-
 pm2 deploy setting.config production setup 则不会执行post-deploy 但会执行 post-setup
-
 deploy --config deploy.conf production
-
 deploy stagn setup 初始化
-
 deploy stagin 部署到服务器执行shell脚本做一些构建的功能
-
 node 7 以上unbutun 缺少一些动态库
+```
 
 [https://my.oschina.net/u/1540325/blog/639884](https://my.oschina.net/u/1540325/blog/639884)
 
