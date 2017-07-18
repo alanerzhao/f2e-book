@@ -21,6 +21,7 @@
   * [基础命令](nginxpei-zhi/ji-chu-ming-ling.md)
   * [前端性能优化配置](nginxpei-zhi/qian-duan-xing-neng-you-hua-pei-zhi.md)
   * [config](nginxpei-zhi/config.md)
+  * [HTTP缓存](nginxpei-zhi/httphuan-cun.md)
 * [前端框架](qian-duan-kuang-jia.md)
   * [Vue](qian-duan-kuang-jia/vue.md)
   * [React](qian-duan-kuang-jia/react.md)
