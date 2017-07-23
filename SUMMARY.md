@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [前端工程化](qian-duan-gong-cheng-hua.md)
   * [自动化部署](qian-duan-gong-cheng-hua/zi-dong-hua-bu-shu.md)
+    * [babel](qian-duan-gong-cheng-hua/zi-dong-hua-bu-shu/babel.md)
   * [命令行](qian-duan-gong-cheng-hua/ming-ling-xing.md)
   * [标准化提交Commit](qian-duan-gong-cheng-hua/biao-zhun-hua-ti-jiao-commit.md)
   * [webpack](qian-duan-gong-cheng-hua/webpack.md)
