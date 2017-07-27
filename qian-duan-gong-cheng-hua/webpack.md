@@ -16,8 +16,6 @@
 
 每种方法都有其利弊。运行时\(runtime\)加载和转译模块，为大型网站增加了大量开销，并且应用程序会由许多模块组成。因此，SystemJS 对于需要少量模块的小型项目更有意义。但是，随着[HTTP/2](https://http2.github.io/)改善文件从服务器到客户端的传输速度，这可能会发生一些变化。请注意，HTTP/2 不会修改_转译_模块的任何内容，在客户端下载完成后，还是需要很长时间去进行转译。
 
-
-
 加入manifest
 
 ![](/assets/manifest.png)
@@ -38,6 +36,23 @@
         ]
     };
     脑子要活可以配置多个
+```
+
+优化打包libary代码
+
+```
+module.exports = {
+    ...
+    externals: {
+        "lodash": {
+            commonjs: "lodash",
+            commonjs2: "lodash",
+            amd: "lodash",
+            root: "_"
+        }
+    }
+    ...
+};
 ```
 
 
