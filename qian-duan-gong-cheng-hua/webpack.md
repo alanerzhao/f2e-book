@@ -57,3 +57,7 @@ module.exports = {
 
 ![](/assets/vue.png)
 
+但是在打包vue组件的时候将支出现大量的重复代码
+
+
+
