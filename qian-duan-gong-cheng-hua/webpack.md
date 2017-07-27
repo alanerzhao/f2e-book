@@ -55,5 +55,5 @@ module.exports = {
 };
 ```
 
-
+![](/assets/vue.png)
 
