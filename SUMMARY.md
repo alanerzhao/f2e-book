@@ -42,4 +42,5 @@
 * [NodeJS](nodejs.md)
   * [Node项目展示](nodejs/nodexiang-mu-zhan-shi.md)
 * [设计和切图](she-ji-he-qie-tu.md)
+* [数据统计](shu-ju-tong-ji.md)
 
